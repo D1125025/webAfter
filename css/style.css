@@ -149,13 +149,14 @@ a:focus {
           align-items: center;
 }
 
-.custom_nav-container .navbar-toggler {
+.custom_nav-container .navbar-toggler , .custom_nav-container .navbar-toggler{
   outline: none;
 }
 
-.custom_nav-container .navbar-toggler {
-  outline: none;
-}
+/*.custom_nav-container .navbar-toggler*/
+/* {*/
+/*  outline: none;*/
+/*}*/
 
 .custom_nav-container .navbar-toggler {
   padding: 0;
